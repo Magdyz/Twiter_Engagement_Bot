@@ -305,7 +305,5 @@ That's basically it. I hope this has been helpful. I have learnt a lot while wor
 
 I still need to work on testing module for this, so stay tuned and follow my github repo. 
 
-[Github repository](https://github.com/Magdyz/TwiiterEngagementBot)
-
 Happy to answer any questions. Please post them below.
 Happy Coding!
