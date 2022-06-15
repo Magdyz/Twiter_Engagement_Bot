@@ -1,6 +1,8 @@
 import tweepy
 import time
 from random import randrange, choice
+from StatusUpdate import getNews
+
 
 WaitTimeForTopics = 3600     #1800
 waitTimeForTweets = 50       #800
